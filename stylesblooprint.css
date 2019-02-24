@@ -1,0 +1,58 @@
+.headers {
+	color: #ffd37c;
+	text-align: left;
+	margin-left: 200px;
+	font-size: 40px;
+	font-family: palatino;
+	font-style: italic;
+	margin-bottom: 20px;
+
+}
+#lets {
+	color: #ffb65e;
+	font-size: 33px;
+	font-family: palatino;
+	font-style: italic;
+	font-style: bold;
+	text-align: center;
+
+}
+
+h1 {
+	color: #ffd37c;
+	font-size: 66px;
+	text-align: center;
+	font-style: italic;
+	font-family: palatino;
+	margin-top: 20px;
+}
+
+body {
+	background-color: #ffffff;
+}
+
+.list{
+	color: #ff982f;
+	font-size: 20px;
+	margin-left: 120px;
+	font-family: palatino;
+}
+
+
+#pixel2{
+	text-align: center;
+}
+
+#pixel1 {
+	margin-left: 400px;
+}
+
+
+
+
+
+
+
+
+
+
